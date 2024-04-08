@@ -7,6 +7,7 @@ out/
 *.fls
 *.fdb_latexmk
 *.synctex.gz
+*.synctex(busy)
 *.pdf
 !Srinu-Resume-Template.pdf
 *.bbl
