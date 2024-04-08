@@ -8,6 +8,6 @@ out/
 *.fdb_latexmk
 *.synctex.gz
 *.pdf
-!Srinu-Resume-Template.pdf
+!yash_resume.tex
 *.bbl
 *.out
