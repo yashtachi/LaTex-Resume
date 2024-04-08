@@ -1,0 +1,13 @@
+# out folder
+.idea/
+auxil/
+out/
+*.aux
+*.log
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.pdf
+!Srinivas-Rao-Tammireddy-resume.pdf
+*.bbl
+*.out
